@@ -1,6 +1,6 @@
 # Assignment
-*Name: Yejin Hwang
-*Date: 05 / 03 / 2023
++ Name: Yejin Hwang
++ Date: 05 / 03 / 2023
 *Course Code: CS209(32460)
 *Description: 
 
